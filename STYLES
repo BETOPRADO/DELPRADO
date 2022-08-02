@@ -1,0 +1,23 @@
+<!-- All CSS Files -->
+
+	<!-- IcoFont CSS
+	============================================ -->
+	<link rel="stylesheet" href="css/icofont.min.css">
+
+	<!-- Slick Slider CSS
+	============================================ -->
+	<link rel="stylesheet" href="css/slick.css">
+	<link rel="stylesheet" href="css/slick-theme.css">
+
+	<!-- Bootstrap CSS
+	============================================ -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<!-- Style CSS
+	============================================ -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Responsive CSS
+	============================================ -->
+	<link rel="stylesheet" href="css/responsive.css">
+	
